@@ -22,3 +22,8 @@ layout: home
 * [AWS Certified Cloud Practitioner](https://www.youracclaim.com/badges/37c8ad4e-3513-451d-897e-c304bcbf8aa7/linked_in_profile)
 * [KMPI: Kanban System Design](https://edu.kanban.university/user/51065/7114/13/certificate)
 * [Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND004653)
+
+### Articles
+
+* [Habr](https://habr.com/en/users/sibprogrammer/posts/)
+* [Medium](https://sibprogrammer.medium.com/)
