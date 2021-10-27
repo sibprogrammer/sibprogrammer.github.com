@@ -25,6 +25,11 @@ layout: home
 * [KMPI: Kanban System Design](https://edu.kanban.university/user/51065/7114/13/certificate)
 * [Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND004653)
 
+### Patents
+
+* [Permanent Website Hosting on Mobile Devices](https://patents.google.com/patent/US20180341661A1)
+* [Processing run-time error messages and implementing...](https://patents.google.com/patent/US20160041866)
+
 ### Articles
 
 * [Habr](https://habr.com/en/users/sibprogrammer/posts/)
