@@ -14,6 +14,8 @@ layout: home
 * [CodeSignal](https://app.codesignal.com/profile/sibprogrammer)
 * [LeetCode](https://leetcode.com/sibprogrammer/)
 * [CodeWars](https://www.codewars.com/users/sibprogrammer)
+* [CodinGame](https://www.codingame.com/profile/09d6c11093a2b3acf048c2133f3a55700761133)
+* [WakaTime](https://wakatime.com/@sibprogrammer)
 
 ### Certifications
 
