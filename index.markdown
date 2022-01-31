@@ -21,10 +21,10 @@ layout: home
 ### Certifications
 
 * [AWS Certified Solutions Architect - Associate](https://www.credly.com/badges/b990abb5-0e80-433f-b0e9-a458942f0dc0)
-* [KMP: Kanban Management Professional](https://edu.kanban.university/user/51065/8/qualification-certificate)
-* [HackerRank: Problem Solving](https://www.hackerrank.com/certificates/ea2b40fd8fa5)
 * [AWS Certified Cloud Practitioner](https://www.credly.com/badges/a174b140-ce4a-4f65-896d-c6322dad6420)
+* [KMP: Kanban Management Professional](https://edu.kanban.university/user/51065/8/qualification-certificate)
 * [KMPI: Kanban System Design](https://edu.kanban.university/user/51065/7114/13/certificate)
+* [HackerRank: Problem Solving](https://www.hackerrank.com/certificates/ea2b40fd8fa5)
 * [Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND004653)
 
 ### Patents
