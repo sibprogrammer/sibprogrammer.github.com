@@ -26,7 +26,7 @@ layout: home
 * [KMP: Kanban Management Professional](https://edu.kanban.university/user/51065/8/qualification-certificate)
 * [KMPI: Kanban System Design](https://edu.kanban.university/user/51065/7114/13/certificate)
 * [HackerRank: Problem Solving](https://www.hackerrank.com/certificates/ea2b40fd8fa5)
-* [Zend Certified Engineer](http://www.zend.com/en/yellow-pages/ZEND004653)
+* [Zend Certified Engineer](https://www.zend-zce.com/en/yellow-pages/ZEND004653)
 
 ### Patents
 
