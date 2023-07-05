@@ -37,3 +37,4 @@ layout: home
 
 * [Habr](https://habr.com/en/users/sibprogrammer/posts/)
 * [Medium](https://sibprogrammer.medium.com/)
+* [Dev.to](https://dev.to/sibprogrammer/)
