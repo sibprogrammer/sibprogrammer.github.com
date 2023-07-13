@@ -2,7 +2,7 @@
 layout: home
 ---
 
-<img align="right" width="200" height="200" style="border-radius: 25%" src="https://avatars.githubusercontent.com/u/187856?s=460&v=4">
+<img align="right" width="200" height="200" style="border-radius: 25%; margin: 20px;" src="https://avatars.githubusercontent.com/u/187856?s=460&v=4">
 
 ### Bio
 
