@@ -6,7 +6,7 @@ layout: home
 
 ### Bio
 
-I'm an Engineering Manager for the [Plesk](https://www.plesk.com/) product ([WebPros](https://webpros.com/) company). I started my journey in the IT field 30 years ago at the age of 10, fell in love with ZX Spectrum, developed desktop and mobile applications, and ended up with web projects and cloud infrastructure. For the last 15 years, I have been focused on the management of engineering teams while continuing to study new technologies, tools, and programming languages. So I am a manager by day and a developer by night 😊
+I'm an Engineering Manager of the [Plesk](https://www.plesk.com/) product ([WebPros](https://webpros.com/) company). I started my journey in the IT field 30 years ago at the age of 10, fell in love with ZX Spectrum, developed desktop and mobile applications, and ended up with web projects and cloud infrastructure. For the last 15 years, I have been focused on the management of engineering teams while continuing to study new technologies, tools, and programming languages. So I am a manager by day and a developer by night 😊
 
 ### Social Networks
 
