@@ -16,7 +16,7 @@ I'm an Engineering Manager for [Plesk](https://www.plesk.com/) product ([WebPros
 
 * [HackerRank](https://hackerrank.com/sibprogrammer)
 * [CodeSignal](https://app.codesignal.com/profile/sibprogrammer)
-* [LeetCode](https://leetcode.com/sibprogrammer/)
+* [LeetCode](https://leetcode.com/u/sibprogrammer/)
 * [CodeWars](https://www.codewars.com/users/sibprogrammer)
 * [CodinGame](https://www.codingame.com/profile/09d6c11093a2b3acf048c2133f3a55700761133)
 * [Root Me](https://www.root-me.org/SibProgrammer?lang=en)
