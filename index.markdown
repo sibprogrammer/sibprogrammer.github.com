@@ -12,6 +12,12 @@ I'm an Engineering Manager for [Plesk](https://www.plesk.com/) product ([WebPros
 
 {% include social.html %}
 
+### Articles
+
+* [Dev.to](https://dev.to/sibprogrammer/)
+* [Medium](https://sibprogrammer.medium.com/)
+* [Habr](https://habr.com/en/users/sibprogrammer/posts/)
+
 ### Challenges
 
 * [LeetCode](https://leetcode.com/u/sibprogrammer/)
@@ -36,9 +42,3 @@ I'm an Engineering Manager for [Plesk](https://www.plesk.com/) product ([WebPros
 
 * [Permanent Website Hosting on Mobile Devices](https://patents.google.com/patent/US20180341661A1)
 * [Processing run-time error messages and implementing...](https://patents.google.com/patent/US20160041866)
-
-### Articles
-
-* [Habr](https://habr.com/en/users/sibprogrammer/posts/)
-* [Medium](https://sibprogrammer.medium.com/)
-* [Dev.to](https://dev.to/sibprogrammer/)
